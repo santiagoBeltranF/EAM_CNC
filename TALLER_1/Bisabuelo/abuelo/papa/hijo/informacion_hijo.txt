@@ -1,0 +1,6 @@
+Nombre: Santiago
+Apellido: Beltran
+Correo: Santiago@gmail.com
+RH: O+
+cm: 165
+

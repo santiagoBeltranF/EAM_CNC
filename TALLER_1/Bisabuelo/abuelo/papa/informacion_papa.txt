@@ -1,0 +1,5 @@
+Nombre: Mario
+Apellido: Beltran
+Correo: Mario@gmail.com
+RH: O+
+cm: 170
