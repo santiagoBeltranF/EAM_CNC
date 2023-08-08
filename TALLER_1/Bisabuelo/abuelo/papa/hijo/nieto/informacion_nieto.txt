@@ -1,0 +1,6 @@
+Nombre: sebastian
+Apellido: beltran
+Correo: sebastian@gmail.com
+RH:O+
+CM:178
+

@@ -1,0 +1,6 @@
+Nombre: Carlos
+Apellido: Beltran
+Correo: Carlos@gmail.com
+RH: O+
+cm: 155
+
