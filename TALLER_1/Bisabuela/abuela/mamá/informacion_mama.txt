@@ -1,0 +1,5 @@
+Nombre: Sandra
+Apellido: Beltran
+correo: sandra@gmail.com
+RH: O+
+cm: 155

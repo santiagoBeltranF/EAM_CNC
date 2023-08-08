@@ -1,0 +1,5 @@
+Nombre: alejandra
+Apellido: beltran
+correo: alejandra@gmail.com
+RH: O+
+cm:160
