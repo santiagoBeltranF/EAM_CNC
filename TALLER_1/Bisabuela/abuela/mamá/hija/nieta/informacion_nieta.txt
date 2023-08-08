@@ -1,0 +1,5 @@
+nombre:  Manuela
+apellido: beltran
+correo: manuela@gmail.com
+RH: o+
+cm: 140
